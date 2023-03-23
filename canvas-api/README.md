@@ -1,2 +1,2 @@
 # Canvas API
-Canvas API를 활용한 UI
+> Canvas API를 활용한 UI

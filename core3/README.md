@@ -1,2 +1,2 @@
-# HTML, CSS, JavaScript
-HTML, CSS, JavaScript를 활용한 UI
+# 마크업 시리즈
+> 근본(HTML, CSS, JS) 만을 이용한 세련된 UI 연습하기

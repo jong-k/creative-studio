@@ -22,3 +22,9 @@
 [상세 내용](https://github.com/jong-k/creative-studio/tree/main/core3/scroll-animation)
 - `Intersection Observer API` 를 이용해 스크롤 추적하기
 - `dicebear` 를 활용해 아바타 가져오기
+
+### [2. 재무상태표](https://jong-k.github.io/creative-studio/core3/balance-sheet/index.html)
+[상세 내용](https://github.com/jong-k/creative-studio/tree/main/core3/balance-sheet)
+- HTML, CSS 사용
+- 웹 접근성을 위해 aria 어트리뷰트 사용
+- 스크린 리더 대응을 위한 클래스(sr-only) 사용

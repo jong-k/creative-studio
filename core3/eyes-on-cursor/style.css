@@ -1,0 +1,41 @@
+body {
+	background-color: #000;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	display: grid;
+	place-items: center;
+	position: relative;
+}
+
+#main {
+	height: 100vh;
+}
+
+.eye {
+	position: fixed;
+	border-radius: 50%;
+}
+
+#eye1 {
+	top: 58vh;
+	left: 40.5vw;
+}
+
+#eye2 {
+	top: 55.3vh;
+	left: 46.3vw;
+}
+
+#eye3 {
+	top: 30.5vh;
+	left: 53vw;
+}
+
+#eye4 {
+	top: 30.5vh;
+	left: 59vw;
+}

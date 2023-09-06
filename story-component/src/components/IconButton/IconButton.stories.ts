@@ -1,5 +1,5 @@
 import IconButton from "../IconButton";
-import messageSvg from "../../assets/message_white.svg";
+import messageSvg from "../../assets/message-white.svg";
 
 export default {
   title: "Button/Icon",
